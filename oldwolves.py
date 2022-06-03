@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from time import sleep
-bot = Client("old", 1723719, 'dce2a0e1a8376fec526b76bb99746238')
+bot = Client("old", 1111111, '')
 
 
 
